@@ -1,9 +1,9 @@
 class Sefyra < Formula
   desc "Sefyra computer-use daemon"
   homepage "https://sefyra.space"
-  version "0.1903.0"
-  url "https://pub-d364670fbc934bb395988310eeee39fa.r2.dev/sefyra/d8d8078/sefyra-darwin-universal"
-  sha256 "7c265e079ccc98fc7b64ec55761d3a681fcc075fd4e57bc8344cfdf982272ef9"
+  version "0.1.0"
+  url "https://pub-d364670fbc934bb395988310eeee39fa.r2.dev/sefyra/fbb5fdd/sefyra-darwin-universal"
+  sha256 "bfe54f445e180b86711f8ca54a72a3296946baa6bbeba07839227da93d410533"
   license "MIT"
 
   def install
